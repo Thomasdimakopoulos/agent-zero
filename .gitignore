@@ -1,6 +1,5 @@
 # Ignore common unwanted files globally
 **/.DS_Store
-**/.env
 **/__pycache__/
 **/.conda/
 
@@ -47,3 +46,5 @@ instruments/**
 # Global rule to include .gitkeep files anywhere
 !**/.gitkeep
 agent_history.gif
+config.bat
+node_modules
