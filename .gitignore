@@ -46,5 +46,5 @@ instruments/**
 # Global rule to include .gitkeep files anywhere
 !**/.gitkeep
 agent_history.gif
-config.bat
 node_modules
+config.bat
